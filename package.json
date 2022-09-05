@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "canvas": "^2.10.0"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "name": "twibbonize",
+  "description": "gaboet",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "keywords": [
+    "twibbonize"
+  ],
+  "author": "hardianto-cpu",
+  "license": "ISC"
+}
